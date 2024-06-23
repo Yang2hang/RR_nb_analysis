@@ -1,4 +1,4 @@
-CACHE_FOLDER = r"D:\U19\data\RR\caching"
-PLOT_FOLDER = r"D:\U19\data\RR\plots"
-DATA_ROOT = r"D:\U19\data\RR\ARJ_raw"
+CACHE_FOLDER = r"/Users/yang/Documents/Wilbrecht_Lab/data/caching"
+PLOT_FOLDER = r"/Users/yang/Documents/Wilbrecht_Lab/data/plots"
+DATA_ROOT = r"/Users/yang/Documents/Wilbrecht_Lab/data/ARJ_raw"
 RAND_STATE = 230
